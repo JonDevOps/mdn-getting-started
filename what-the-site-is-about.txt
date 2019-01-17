@@ -1,0 +1,7 @@
+w3develops projects
+1. my web page will be about how developers can collaborate with other developers remotely and locally.
+2. The information i am providing is how to 
+a) meetup locations -we will keep track of all code meetups - we will launch code meetups globally - we have a meetup tracker and it works for mobile 
+b) facilitating remote code collaboration -we connect coders with coders so they can build projects - we remote project launcheds are every month 
+c) facilitate group learning groups -meetup 6 hours a day 6 days a week saturdays are off days - anyone who mkes it to the end gets a reward - the goal is to get a job at the end of the 30 days
+3. background white - text color black - formal font
